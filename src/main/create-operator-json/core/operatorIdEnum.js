@@ -68,5 +68,16 @@ export default {
     thunderbird: 61,
     osa: 62,
     thorn:63,
-    azami:64
+    azami:64,
+    sens:65,
+    grim:66,
+    solis:67,
+    brava:68,
+    fenrir:69,
+    ram:70, 
+    tubarao:71, 
+    deimos:72, 
+    sentry:73, 
+    striker:74, 
+    skopos:75
 };
